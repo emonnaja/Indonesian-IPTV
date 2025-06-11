@@ -7,6 +7,10 @@ copy this link and paste it into your OTT Player, or to your video player (Make 
 ```
 https://cdn.streamo.web.id/live/playlist/indonesia.m3u
 ```
+or 
+```
+https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/playlist/indonesia.m3u
+```
 
 ## Be a Beta Tester
 You can try out some of the new channels or those that are being improved at the moment and have not yet been put into the production side.
@@ -27,41 +31,6 @@ https://cdn.streamo.web.id/live/playlist/test.m3u
 * For mutual convenience, please do not to sell or rebroadcast what is aired either directly or indirectly without the permission of the content provider and the television channel concerned.
 
 * I cannot guarantee that all available television channels will be accessible at all times and do not guarantee that the broadcast sources provided are safe from malware threats that can damage your device.
-
-
-
-## Support Me
-
-You can help me to pay my server bill and domain fees through the following options:
-
-### Fiat
-
-If you want to pay with Indonesian Rupiah or USD, you can click [this url](https://www.streamo.web.id/dukungan)
-
-### Cryptocurrency
-
-You can support me with crypto assets, Make sure the address you send is correct because if there is an error in the address, your asset will be completely lost and will not be delivered.
-
-#### Bitcoin
-```
-bc1q654uk3sxp9qndnu9calcxqr93gffv9upj5k2pv
-```
-
-#### Ethereum
-```
-0xDA5E4507a6899a858eD0F24996FEeC98A8AD490D
-```
-
-
-#### Solana
-```
-8WpgDFgziBZZqHVtgB6zH72vPeoNp93tCUkqMVLbcg5d
-```
-
-#### Polygon (Recommended, if you want to transfer with small amounts)
-```
-0xDA5E4507a6899a858eD0F24996FEeC98A8AD490D
-```
 
 
 ## Legal
