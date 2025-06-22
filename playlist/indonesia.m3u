@@ -139,7 +139,7 @@ https://streamo.web.id/api/1/get/live/tv/channel/18.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/20
 #EXTINF:-1 tvg-id="RTV.IPTV" tvg-name="RTV.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/rtv.png",RTV
-https://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
+https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/19
