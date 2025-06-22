@@ -17,6 +17,19 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
+
+#EXTM3U x-tvg-url="https://iptvsystem.my.id/epg" refresh="3600"
+#EXTM3U x-tvg-url="https://warningfm.github.io/x1/epg/guide.xml.gz" url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml" refresh="3600"
+
+# Some tv channels use DRM, maybe the channel cannot be played (usually stuck loading) because your device does not support DRM.
+# This is a live tv playlist selected for OTT Player app only (you can find it in Play Store but i don't know is that available in App Store).
+# PLEASE DO NOT REBROADCAST IPTV STREAM (LIKE TIKTOK AND YOUTUBE) OR SELL IPTV INFORMATION.
+
+
+
+# LOCAL SECTION
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/1
 #EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/indosiar.png",INDOSIAR
