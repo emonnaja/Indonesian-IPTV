@@ -36,6 +36,14 @@ https://cdn.streamo.web.id/live/playlist/test.m3u
 * I cannot guarantee that all available television channels will be accessible at all times and do not guarantee that the broadcast sources provided are safe from malware threats that can damage your device.
 
 
+## Stay Connected to my Project
+Be the first to know about all my projects on my [Telegram Channel](https://t.me/emonnprjkt).
+
+and
+
+Discuss with others about my projects [here](https://t.me/+sl-jjUJISchkYzM1)
+
+
 ## Legal
 
 All trademarks and copyrights are protected by perspective owners. I as the owner of this repository am not responsible for the content hosted by third parties and am not involved in the download, upload and rebroadcast requests. We only post streaming links that are available on the internet. If you feel any content violates intellectual property laws and you hold the copyright of the content, please make a pull request or open an issue. After which, the content will be removed immediately.
