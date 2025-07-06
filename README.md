@@ -23,7 +23,7 @@ If you find any issues or question with the channel, feel free to ask on the dis
 copy this link and paste it into your OTT Player, or to your video player (Make sure your device supports [DRM content](https://support.vidio.com/support/solutions/articles/43000656969-apa-itu-drm-)) :
 
 ```
-https://cdn.streamo.web.id/live/playlist/test.m3u
+https://streamo.b-cdn.net/live/playlist/test.m3u
 ```
 
 
