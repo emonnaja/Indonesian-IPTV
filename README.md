@@ -2,13 +2,10 @@
 
 You can watch livetv from Indonesian channels or premium tv with Indonesian subtitle without having to subscribe and pay anything.
 
-> [!WARNING]
-> All television channels that use the streamo.web.id domain are currently undergoing SSL/TLS repair until this notice is removed.
-
 copy this link and paste it into your OTT Player, or to your video player (Make sure your device supports [DRM content](https://support.vidio.com/support/solutions/articles/43000656969-apa-itu-drm-)) :
 
 ```
-https://cdn.streamo.web.id/live/playlist/indonesia.m3u
+https://streamo.b-cdn.net/live/playlist/indonesia.m3u
 ```
 or 
 ```
