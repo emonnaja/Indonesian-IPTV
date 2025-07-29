@@ -1,6 +1,6 @@
 # Contributing Guide
 
-## How to Add or Update Stream Link or Channel to a Playlist?
+## How do I update sources or add new channels to a playlist?
 
 1. Fork this repository to Your GitHub account.
 2. You can change the broadcast data or add new channels in the repository that you have forked.
@@ -16,12 +16,14 @@
 5. Once the pull reuest has been accepted and merged, your changes will be available on our Content Delivery Network within 48 hours and accessible to everyone.
 
 
-## How to Add New Country?
+## How to Add New Country/Area?
 
-If you already have a playlist for your area (such as Malaysia, Singapore, etc.) you can follow the following steps:
+If you already have a playlist for your area (such as Malaysia, Singapore, Kalimantan Island, Depok City, etc.) you can follow the following steps:
 
 1. Fork this repository to Your GitHub account.
-2. Create a new file with .m3u extension in the Playlists folder with your country name (e.g. malaysia.m3u),
+2. Create a new file with .m3u extension in the Playlists folder with your area name (e.g. malaysia.m3u),
 3. Check whether all the channels in your playlist are active or not.
 4. Create a pull request by explaining what you changed.
 5. Once the pull reuest has been accepted and merged, your changes will be available on our Content Delivery Network within 48 hours and accessible to everyone.
+
+### Entertainment belongs to everyone, but please respect the providers and performers.
