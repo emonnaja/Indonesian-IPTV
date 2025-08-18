@@ -12,17 +12,6 @@ or
 https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/playlist/indonesia.m3u
 ```
 
-## Be a Beta Tester
-You can try out some of the new channels or those that are being improved at the moment and have not yet been put into the production side.
-
-If you find any issues or question with the channel, feel free to ask on the discussion page.
-
-copy this link and paste it into your OTT Player, or to your video player (Make sure your device supports [DRM content](https://support.vidio.com/support/solutions/articles/43000656969-apa-itu-drm-)) :
-
-```
-https://streamo.b-cdn.net/live/playlist/test.m3u
-```
-
 
 ## Notes
 
