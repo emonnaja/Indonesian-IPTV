@@ -19,7 +19,11 @@
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 #EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/indosiar.png",INDOSIAR
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://fta2-cdn.streamo.cfd/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+https://fta-idn.streamo.cfd/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+
+
+#EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/indosiar.png",INDOSIAR Digital
+https://lep.semar.my.id/fetch?id=idigital.m3u8&auth=idgtlsemar25
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -47,7 +51,7 @@ https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 #EXTINF:-1 tvg-id="SCTV.IPTV" tvg-name="SCTV.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/sctv.png",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://fta2-cdn.streamo.cfd/live/eds/SCTVHD/mpd/SCTVHD.mpd
+https://d3gwguonfqlgtv.cloudfront.net/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -89,7 +93,11 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 #EXTINF:-1 tvg-id="Moji.IPTV" tvg-name="Moji.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/moji.png",Moji
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://fta2-cdn.streamo.cfd/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
+https://fta-idn.streamo.cfd/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
+
+
+#EXTINF:-1 tvg-id="Moji.IPTV" tvg-name="Moji.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/moji.png",Moji Digital
+https://lep.semar.my.id/fetch?id=mlg.m3u8&auth=mlgsemar25
 
 
 #EXTVLCOPT:http-referrer=http://dens.tv/
@@ -120,7 +128,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
 #EXTINF:-1 tvg-id="KompasTv.IPTV" tvg-name="Kompastv.IPTV" group-title="News" tvg-logo="https://iptvsystem.my.id/img/kompastv.png",Kompas TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://fta2-cdn.streamo.cfd/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
+https://fta-idn.streamo.cfd/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -147,18 +155,14 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
-#EXTINF:-1 tvg-id="IDX.id" tvg-name="IDX" tvg-logo="https://mncvision.id/userfiles/image/channel/iBcm_IDX.jpg" group-title="News", IDX
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-https://fta2-cdn.streamo.cfd/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
+
+#EXTINF:-1 tvg-id="IDX.id" tvg-name="IDX" tvg-logo="https://mncvision.id/userfiles/image/channel/iBcm_IDX.jpg" group-title="News", IDX (UNSAFE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a94d7dbc775546ae8a7363800a64586c:6ede954c196e997735076255147c80aa
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Euronews.id" tvg-name="Euronews" tvg-logo="https://cdn.streamo.cfd/live/images/euronews.png" group-title="News", Euronews
-https://fta2-cdn.streamo.cfd/live/eds/EURONEWS/mpd/EURONEWS.mpd
+https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -173,15 +177,11 @@ https://fta3-cdn-flr.visionplus.id/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index
 #KODIPROP:inputstream.adaptive.license_key=1a1feb27e16048a59f39246a1321ea7e:979f770ca36fae07e287257bfa56bc4c
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="CNNInternational" tvg-name="CNNInternational" group-title="News" tvg-logo="https://iptvsystem.my.id/img/cnninternational.png",CNN International
-https://fta2-cdn.streamo.cfd/live/eds/CNNIntHD/mpd/CNNIntHD.mpd
-
-
-#EXTINF:-1 tvg-id="CNN US" tvg-name="CNN US" tvg-logo="https://cdn.streamo.cfd/live/images/cnn.png" group-title="News", CNN USA
-https://cdn.streamo.cfd/live/channel/USA/CNN.m3u8
+https://fta-idn.streamo.cfd/live/eds/CNNIntHD/mpd/CNNIntHD.mpd
 
 
 #EXTINF:-1 tvg-id="BloombergTV.id" tvg-name="Bloomberg TV" tvg-logo="https://cdn.streamo.cfd/images/live-tv/bloomberg-television.png" group-title="News", Bloomberg TV
-https://cdn.streamo.cfd/live/channel/ASIA/BLOOMBERG_TV.m3u8
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -190,11 +190,8 @@ https://cdn.streamo.cfd/live/channel/ASIA/BLOOMBERG_TV.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h29/01.m3u8?app_type=web&userid=lite&chname=CNA
 
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6b63be641d34965833cb959113d612e:68dc81f8440af4ea3a162f9e3778d089
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Foxnews.id" tvg-name="Fox News" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_news_channel.png" group-title="News", Fox News
-https://fta2-cdn.streamo.cfd/live/eds/FOXNewsHD/mpd/FOXNewsHD.mpd
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 
 
 
@@ -205,33 +202,33 @@ https://fta2-cdn.streamo.cfd/live/eds/FOXNewsHD/mpd/FOXNewsHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" group-title="Entertainment" tvg-logo="https://iptvsystem.my.id/img/animax.png",Animax
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://fta2-cdn.streamo.cfd/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
+https://fta-idn.streamo.cfd/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 
 
 #EXTINF:-1 tvg-id="Aniplus" tvg-name="Aniplus" group-title="Entertainment" tvg-logo="https://cdn.streamo.web.id/live/images/aniplus.png",Aniplus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&userid=lite&chname=ANIPLUS_HD
+https://fta-idn.streamo.cfd/h/h201/index.m3u8?app_type=web&userid=lite&chname=ANIPLUS_HD
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b7b00124894d4f1f8b91fba79160b896:bb236ab2b198c2ffd722817bfa74cd08
 #EXTINF:-1 tvg-id="AXNHD" tvg-name="AXN" group-title="Entertainment" tvg-logo="https://iptvsystem.my.id/img/axn.png",AXN
 #EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://fta2-cdn.streamo.cfd//live/eds/AXNHD/mpd/AXNHD.mpd
+https://fta-idn.streamo.cfd//live/eds/AXNHD/mpd/AXNHD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a
 #EXTINF:-1 tvg-id="HITS" tvg-name="HITS" group-title="Entertainment" tvg-logo="https://iptvsystem.my.id/img/hits2.png",HITS
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-https://fta2-cdn.streamo.cfd/live/eds/HitsHD/mpd/HitsHD.mpd
+https://fta-idn.streamo.cfd/live/eds/HitsHD/mpd/HitsHD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
-#EXTINF:-1 tvg-id="HITSNow.id" tvg-name="HITS NOW" tvg-logo="https://cdn.streamo.web.id/live/images/HITSNOW.png" group-title="Entertainment", HITS Now
+#EXTINF:-1 tvg-id="HITSNow.id" tvg-name="HITS NOW" tvg-logo="https://cdn.streamo.web.id/live/images/HITSNOW.png" group-title="Entertainment", HITS Now (Not Supported)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-https://fta2-cdn.streamo.cfd/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
+https://fta-idn.streamo.cfd/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
 
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -267,7 +264,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/ind
 #KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
 #EXTINF:-1 tvg-id="HITSMovies" tvg-name="HITSMovies" group-title="Movies" tvg-logo="https://iptvsystem.my.id/img/hits_movies2.png",HITS Movies
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-https://fta2-cdn.streamo.cfd/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
+https://fta-idn.streamo.cfd/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
 
 
 
@@ -283,7 +280,7 @@ https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index
 #EXTVLCOPT:http-referrer=http://dens.tv/
 #EXTINF:-1 tvg-id="MyCinema" tvg-name="MyCinema" group-title="Movies" tvg-logo="https://iptvsystem.my.id/img/mycinema.png",My Cinema
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_HD
+https://fta-idn.streamo.cfd/h/h192/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_HD
 
 
 
@@ -294,46 +291,28 @@ https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&userid=l
 
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" group-title="Movies" tvg-logo="https://iptvsystem.my.id/img/hbo.png",HBO
-https://nonton.site:8443/live/XtreamFlixID/w9RLHbWJY4/210.ts
+http://s.streamo.cfd:6768/hls/27/27.m3u8
 
 
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=47a7ef37081a4ab5937c94272d9988b6:e637e6be1231e14a670120b23dae1a0b
 #EXTINF:-1 tvg-id="HBOHits1" tvg-name="HBOHits1" group-title="Movies" tvg-logo="https://iptvsystem.my.id/img/hbohits.png",HBO Hits
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-https://fta2-cdn.streamo.cfd/live/eds/HBOHitsHD/mpd/HBOHitsHD.mpd
+http://s.streamo.cfd:6768/hls/28/28.m3u8
 
 
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5263a24be1084f29b190d98a52e30384:044798ce23772d14859c306a8a6b33f3
 #EXTINF:-1 tvg-id="HBOSignature1" tvg-name="HBOSignature1" group-title="Movies" tvg-logo="https://iptvsystem.my.id/img/hbosig.png",HBO Signature
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-https://fta2-cdn.streamo.cfd/live/eds/HBOSignatureHD/mpd/HBOSignatureHD.mpd
+http://s.streamo.cfd:6768/hls/29/29.m3u8
 
 
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c374098609974ff5a1db0f2300098092:1cf7e0ca54f6f8a84f99a0607c0dfcee
 #EXTINF:-1 tvg-id="HBOFamily1" tvg-name="HBOFamily1" group-title="Movies" tvg-logo="https://iptvsystem.my.id/img/hbofamily.png",HBO Family
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-https://fta2-cdn.streamo.cfd/live/eds/HBOFamilyHD/mpd/HBOFamilyHD.mpd
+http://s.streamo.cfd:6768/hls/30/30.m3u8
 
 
 
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" group-title="Movies" tvg-logo="https://iptvsystem.my.id/img/cinemax.png",Cinemax
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-https://fta2-cdn.streamo.cfd/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
+http://s.streamo.cfd:6768/hls/26/26.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -345,10 +324,11 @@ https://fta2-cdn-flr.visionplus.id/out/v1/3c619ecc120b46e999d1eaa627cc544f/index
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="TvNMovies" tvg-name="TvNMovies" group-title="Movies" tvg-logo="https://iptvsystem.my.id/img/tvnmovies.png",TvN Movies
-https://fta2-cdn.streamo.cfd/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
+https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
 
 
@@ -469,7 +449,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTINF:-1 tvg-id="Sportstars3" tvg-name="Sportstars3" group-title="Sports" tvg-logo="https://iptvsystem.my.id/img/sportstars.png",Sport Stars 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 
 
