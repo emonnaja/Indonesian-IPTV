@@ -7,11 +7,7 @@ We do not profit from this IPTV service in any way. All support you give me will
 copy this link and paste it into your OTT Player, or to your video player (Make sure your device supports [DRM content](https://support.vidio.com/support/solutions/articles/43000656969-apa-itu-drm-)) :
 
 ```
-https://streamo.b-cdn.net/live/playlist/indonesia.m3u
-```
-or 
-```
-https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/playlist/indonesia.m3u
+https://live.streamo.cfd/jakarta/playlist/indonesia.m3u
 ```
 
 ## PLEASE READ THIS BEFORE USING MY PLAYLIST
@@ -20,7 +16,7 @@ https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/playl
 * The use of this playlist is only for personal or family use within one household.
 * Several channels use my CDN and firewall services for security and convenience when watching TV.
 * This is a live tv playlist selected for OTT Player app only (you can find it in Play Store but i don't know is that available in App Store).
-* Some tv channels use DRM, maybe the channel cannot be played (usually stuck loading) because your device does not support DRM.
+* Some tv channels use DRM, maybe the channel cannot be played (usually stuck loading or blank) because your device does not support DRM.
 * I cannot guarantee that all available television channels will be accessible at all times and do not guarantee that the broadcast sources provided are safe from malware threats that can damage your device.
 * licensed live television service providers are [DENS.TV](https://www.dens.tv/tv-local), [Vidio](https://vidio.com/live), [VISION+](https://www.visionplus.id/webclient/#/live), [IndiHomeTV](https://www.indihometv.com/livetv), [CubMu](https://www.cubmu.com/), and [MAXStream](https://maxstream.tv/tv-channels) (subscriptions are required for some channels).
 * If you are a content provider and know that the channel you provide is on this list and would like me to remove it, please send me a message via Telegram.
@@ -32,6 +28,16 @@ Be the first to know about all my projects on my [Telegram Channel](https://t.me
 and
 
 Discuss with others about my projects [here](https://t.me/+sl-jjUJISchkYzM1)
+
+
+## Support This Project
+Support IPTV-Indonesia to pay server bill.
+
+[Click here](https://t.me/emonnprjkt) to pay via cryptocurrency.
+
+or
+
+Contact me via telegram to pay via Bank/PayPal Transfer
 
 
 ## Legal
