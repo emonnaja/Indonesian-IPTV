@@ -33,7 +33,7 @@ Discuss with others about my projects [here](https://t.me/+sl-jjUJISchkYzM1)
 ## Support This Project
 Support IPTV-Indonesia to pay server bill.
 
-[Click here](https://t.me/emonnprjkt) to pay via cryptocurrency.
+[Click here](https://www.streamo.web.id/dukungan) to pay via cryptocurrency.
 
 or
 
