@@ -7,7 +7,7 @@ We do not profit from this IPTV service in any way. All support you give me will
 copy this link and paste it into your OTT Player, or to your video player (Make sure your device supports [DRM content](https://support.vidio.com/support/solutions/articles/43000656969-apa-itu-drm-)) :
 
 ```
-https://live.streamo.cfd/jakarta/playlist/indonesia.m3u
+https://ikn.streamo.cfd/live/playlist/indonesia.m3u
 ```
 
 ## PLEASE READ THIS BEFORE USING MY PLAYLIST
