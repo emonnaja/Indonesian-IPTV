@@ -10,6 +10,8 @@ copy this link and paste it into your OTT Player, or to your video player (Make 
 https://ikn.streamo.cfd/live/playlist/indonesia.m3u
 ```
 
+playlist for VLC users will be available.
+
 ## PLEASE READ THIS BEFORE USING MY PLAYLIST
 
 * PLEASE DO NOT REBROADCAST IPTV STREAM OR SELL IPTV URLS.
