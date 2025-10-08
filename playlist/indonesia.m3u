@@ -396,25 +396,6 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/in
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1d5f77cd96049f78b6b253540b31722:ba8d0801fe81187d35633e1d3b3855d5
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="NickJr" tvg-name="NickJr" group-title="Kids" tvg-logo="https://iptvsystem.my.id/img/nickjr.png",Nicklodeon Jr.
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
-
-
-
-
-#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="CartoonNetwork" group-title="Kids" tvg-logo="https://iptvsystem.my.id/img/cartoonnetwork.png",Cartoon Network
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://fta4-cdn.streamo.cfd/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9mdGE0LWNkbi5zdHJlYW1vLmNmZC9saXZlL21hc3Rlci80LzQwMjhjNjg1NmI4ZDIzOTAwMTZiOWMzZWU2YzIxZDdjL21hbmlmZXN0Lm1wZCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2MTY2MDMyMn19fV19&Signature=EhBRsmCwNT2V~AqrxaV59vS98wc1eHsE7by6apTfyfZiyy3N5wowCkwyGUlIsROapcPZiIh6qcAeXC34wlEuciXCes1gXTW4CvEMD3d7GpduKvBmJCINd7oTdZH3mKKP8Duga8SP-AAPjVwO4Vmd9uWMS~UeDTqqxrF4roAwhjnTohZs2qaENM~Wlh5Q8fA3aW0FGBqHdfIX9P6FA70uPwAda4cEFMTTA4NswrEKHRMSNn0XyOyXeLhfPw7~JynDaCGPBUMBUlXZ~MVr3VKIaGaUwKZ-4ZMsGTvXHJuUX2IqXHRwbL0J-cDOu8KboHCtClNaIh727wJZH9~VgA0dpg__&Key-Pair-Id=K1UCT5P1FBP0SK
-
 
 
 
@@ -520,24 +501,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTINF:-1 tvg-id="SoccerChannel.IPTV" tvg-name="SoccerChannel.IPTV" group-title="Sports" tvg-logo="https://iptvsystem.my.id/img/soccer.png",Soccer Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-
-
-
-#EXTINF:-1 tvg-id="Premier League" tvg-logo="https://cdn.streamo.web.id/live/images/premierleague.webp" group-title="Sports",Premier League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
-
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
@@ -554,25 +517,6 @@ https://fta-idn.streamo.cfd/live/eds/SPOTVHD/mpd/SPOTVHD.mpd?Policy=eyJTdGF0ZW1l
 #EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" group-title="Sports" tvg-logo="https://iptvsystem.my.id/img/spotv.png",SPOTV 2
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
-
-
-#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/nbatv.jpg?raw=true" group-title="Sports",NBA League Pass (UNSAFE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-http://mains.services/live/bshorty/Zv5le07a0J/4b34c445-df7c-401d-840c-52ce4bc5e1ed.ts
-
-
-
-#EXTINF:-1 tvg-id="NBA.TV.USA.us" tvg-name="NBA TV" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NBATV.png" group-title="SPORTS",NBA TV (UNSAFE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-http://filex.tv:8080//live/Home329/Sohailhome/501267.ts
 
 
 
@@ -610,24 +554,6 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17939&type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0368770b1b2a3b3b9377c75e32acd23f:2cdada53fa00b7b66518261ed587b2d9
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=6786&type=dash
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/champions5.jpg?raw=true" group-title="Sports",CHAMPIONS TV 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9182&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9182&type=dash
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/mimipipi22/logo/blob/main/sports/champions6.jpg?raw=true" group-title="Sports",CHAMPIONS TV 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 
 
 
