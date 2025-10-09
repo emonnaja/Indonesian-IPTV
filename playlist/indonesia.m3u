@@ -582,6 +582,12 @@ https://event-cdn.streamo.cfd/live/eds/RCTILive/mpd/RCTILive.mpd?UserId=6a204a4a
 
 
 
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 CrKey/1.54.250320
+#EXTINF:-1 group-title="Sports" tvg-logo="https://www.visionplus.id/images/repository/817/138817-LOGO-m.png",R+ LIVE 2
+https://securecontent.streamo.cfd/live/eds/RCTILive/hls/RCTILive.m3u8?UserId=6a204a4a-15f7-402c-a462-b5e9fe036be6&Signature=H7cY6gZ5x9h1W3oVqTt8U2e3fJmKp5oPnP4S8d9R0E1%3D
+
+
 
 #EXTM3U billed-till="1761640351" billed-date="2025-09-27 00:00:00" generator="https://6a204a4a-15f7-402c-a462-b5e9fe036be6.streamo.cfd/"
 #EXTM3U billed-msg="MOHON UNTUK TIDAK MENAYANGKAN ULANG SIARAN TV!!!"
