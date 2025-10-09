@@ -6,19 +6,6 @@ We do not profit from this IPTV service in any way. All support you give me will
 
 Please go to my [Telegram Channel](https://t.me/emonnprjkt) for get new playlist.
 
-## Important notice for Indonesian-IPTV users
-
-### English Version
-
-I discovered that my IPTV service was being sold on the S*opee marketplace for Rp.20.000 (US$1.2). Starting with the next update, I will implement a signed URL system, session expiration, and users will have to go through a URL shortener that has advertisements before getting the playlist data for security reasons.
-
-Thanks.
-
-### Versi Bahasa Indonesia
-
-Saya menemukan bahwa layanan IPTV milik saya dijual di marketplace S*opee dengan harga Rp. 20.000. Mulai pembaruan selanjutnya, saya akan akan menetapkan sistem URL yang ditandatangani, sesi expired, dan user harus melewati URL Shortener yang memiliki iklan sebelum mendapatkan data playlist untuk alasan keamanan.
-
-Terima kasih.
 
 ## PLEASE READ THIS BEFORE USING MY PLAYLIST
 
