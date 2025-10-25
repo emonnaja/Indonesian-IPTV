@@ -2,8 +2,8 @@
 
 
 # This playlist is free to use, you can use it for personal use only (do not rebroadcast or sell the playlist).
+# This playlist has passed the Firewall security test in the local network and WAF with rating 85.3 from 100.
 # Created with love by justemonn.
-# GitHub Version.
 
 
 # LOCAL SECTION
@@ -70,7 +70,7 @@ https://ottbridge-prod.streamized.net/live/eds/tvNHD/dash/tvNHD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://licence.streamized.net/v1/1233/cenc/
+#KODIPROP:inputstream.adaptive.license_key=https://licence.streamized.net/clearkey/1233/cenc/
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_hgtv.png" group-title="Entertainment",HGTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://ottbridge-prod.streamized.net/live/eds/HGTVHD/dash/HGTVHD.mpd
